@@ -1,21 +1,110 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.IO;
-using System.Linq;
-using System.Threading.Tasks;
-using Microsoft.AspNetCore;
-using Microsoft.AspNetCore.Hosting;
-using Microsoft.Azure.Documents.Client;
+using System.Text;
+using System.Configuration;
+using System.Globalization;
+using System.ComponentModel;
+using System.Collections.Specialized;
 using Microsoft.Extensions.Configuration;
-using Microsoft.Extensions.Logging;
-using Cosmonaut;
-using Cosmonaut.Attributes;
-using Microsoft.AspNetCore.Http.Features;
-using Newtonsoft.Json;
 
-namespace QueryTest
+public sealed class CustomSection : ConfigurationSection
 {
-    [CosmosCollection("indexTagAdminItems")]
+    public CustomSection()
+    {
+        
+    }
+    
+    [ConfigurationProperty("name",)]
+}
+
+class UsingConfigurationClass
+{
+
+    public class ApplicationMain
+    {
+        static void CreateConfigurationFile()
+        {
+            try
+            {
+                CustomSection customSection = new CustomSection();
+            }
+        }
+
+        public static void UserMenu()
+        {
+            string applicationName = Environment.GetCommandLineArgs()[0] + ".exe";
+
+            StringBuilder buffer = new StringBuilder();
+
+            buffer.AppendLine("Application: " + applicationName);
+            buffer.AppendLine("Make your Selection");
+            buffer.AppendLine("?    -- Display help.");
+            buffer.AppendLine("Q,q  -- Exit the application.");
+
+            buffer.Append("1    -- Instantiate the");
+            buffer.AppendLine(" Configuration class.");
+
+            buffer.Append("2    -- Use GetSection(string) to read ");
+            buffer.AppendLine(" a custom section.");
+
+            buffer.Append("3    -- Use SaveAs methods");
+            buffer.AppendLine(" to save the configuration file.");
+
+            buffer.Append("4    -- Use AppSettings property to read");
+            buffer.AppendLine(" the appSettings section.");
+            buffer.Append("5    -- Use ConnectionStrings property to read");
+            buffer.AppendLine(" the connectionStrings section.");
+
+            buffer.Append("6    -- Use Configuration class properties");
+            buffer.AppendLine(" to obtain configuration information.");
+
+            Console.Write(buffer.ToString());
+
+        }
+
+        static void Main(string[] args)
+        {
+            string selection;
+
+            string appName = Environment.GetCommandLineArgs()[0];
+
+            while (true)
+            {
+                UserMenu();
+                Console.Write("> ");
+                selection = Console.ReadLine();
+                if (!string.IsNullOrEmpty(selection))
+                    break;
+            }
+
+            while (selection.ToLower() != "q")
+            {
+                switch (selection)
+                {
+                    case "1":
+                        CreateConfigurationFile();
+                        break;
+                }
+            }
+        }
+
+    }
+}
+
+
+/*
+            client = new DocumentClient(new Uri(EndpointUrl), PrimaryKey);
+            var queryOptions = new FeedOptions { MaxItemCount = -1 };
+
+            IQueryable<Index> familyQuery = client.CreateDocumentQuery<Index>(
+                UriFactory.CreateDocumentCollectionUri("index_tag_admin_db", "indexTagAdminItems"));
+            foreach (var index in familyQuery)
+            {
+                Console.WriteLine("\tRead {0}", index.Id + " " + index.Name);
+            }
+
+            Console.Read();
+                [CosmosCollection("indexTagAdminItems")]
     public class Index : ISharedCosmosEntity {
         public string CosmosEntityName { get; set; }
         
@@ -28,31 +117,4 @@ namespace QueryTest
 
         public bool Enabled { get; set; }
     }
-    
-    public class Program
-    {
-        public static void Main(string[] args)
-        {
-            const string EndpointUrl = @"";
-            const string PrimaryKey =
-                @"";
-            DocumentClient client;
-            client = new DocumentClient(new Uri(EndpointUrl), PrimaryKey);
-            var queryOptions = new FeedOptions { MaxItemCount = -1 };
-
-            IQueryable<Index> familyQuery = client.CreateDocumentQuery<Index>(
-                UriFactory.CreateDocumentCollectionUri("index_tag_admin_db", "indexTagAdminItems"));
-            foreach (var index in familyQuery)
-            {
-                Console.WriteLine("\tRead {0}", index.Id + " " + index.Name);
-            }
-
-            Console.Read();
-
-        }
-
-        public static IWebHostBuilder CreateWebHostBuilder(string[] args) =>
-            WebHost.CreateDefaultBuilder(args)
-                .UseStartup<Startup>();
-    }
-}
+*/

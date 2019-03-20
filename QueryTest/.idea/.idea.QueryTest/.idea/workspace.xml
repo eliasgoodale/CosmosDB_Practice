@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="201710bf-3512-458b-a9db-fd49f34c1649" name="Default Changelist" comment="" />
+    <list default="true" id="201710bf-3512-458b-a9db-fd49f34c1649" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.QueryTest/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.QueryTest/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.QueryTest/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.QueryTest/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/QueryTest/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/QueryTest/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/QueryTest/QueryTest.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/QueryTest/QueryTest.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/QueryTest/bin/Debug/netcoreapp2.2/QueryTest.dll" beforeDir="false" afterPath="$PROJECT_DIR$/QueryTest/bin/Debug/netcoreapp2.2/QueryTest.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/QueryTest/bin/Debug/netcoreapp2.2/QueryTest.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/QueryTest/bin/Debug/netcoreapp2.2/QueryTest.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/QueryTest/obj/Debug/netcoreapp2.2/QueryTest.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/QueryTest/obj/Debug/netcoreapp2.2/QueryTest.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/QueryTest/obj/Debug/netcoreapp2.2/QueryTest.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/QueryTest/obj/Debug/netcoreapp2.2/QueryTest.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/QueryTest/obj/Debug/netcoreapp2.2/QueryTest.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/QueryTest/obj/Debug/netcoreapp2.2/QueryTest.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/QueryTest/obj/Debug/netcoreapp2.2/QueryTest.dll" beforeDir="false" afterPath="$PROJECT_DIR$/QueryTest/obj/Debug/netcoreapp2.2/QueryTest.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/QueryTest/obj/Debug/netcoreapp2.2/QueryTest.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/QueryTest/obj/Debug/netcoreapp2.2/QueryTest.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/QueryTest/obj/QueryTest.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/QueryTest/obj/QueryTest.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/QueryTest/obj/QueryTest.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/QueryTest/obj/QueryTest.csproj.nuget.g.targets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/QueryTest/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/QueryTest/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/QueryTest/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/QueryTest/obj/project.packagespec.json" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -9,27 +25,43 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/QueryTest/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="20" column="8" lean-forward="true" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
+            <state relative-caret-position="167">
+              <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
               <folding>
-                <marker date="1552952355000" expanded="true" signature="6:405" ph="..." />
-                <marker date="1552952355000" expanded="true" signature="426:1847" ph="{...}" />
-                <marker date="1552952355000" expanded="true" signature="519:795" ph="{...}" />
-                <marker date="1552952355000" expanded="true" signature="825:1845" ph="{...}" />
-                <marker date="1552952355000" expanded="true" signature="878:1674" ph="{...}" />
-                <marker date="1552952355000" expanded="true" signature="1528:1634" ph="{...}" />
+                <marker date="1553029223000" expanded="true" signature="6:231" ph="..." />
+                <marker date="1553029223000" expanded="true" signature="289:383" ph="{...}" />
+                <marker date="1553029223000" expanded="true" signature="318:339" ph="{...}" />
+                <marker date="1553029223000" expanded="true" signature="414:2576" ph="{...}" />
+                <marker date="1553029223000" expanded="true" signature="450:2574" ph="{...}" />
+                <marker date="1553029223000" expanded="true" signature="502:633" ph="{...}" />
+                <marker date="1553029223000" expanded="true" signature="528:623" ph="{...}" />
+                <marker date="1553029223000" expanded="true" signature="672:1902" ph="{...}" />
+                <marker date="1553029223000" expanded="true" signature="1943:2567" ph="{...}" />
+                <marker date="1553029223000" expanded="true" signature="2076:2298" ph="{...}" />
+                <marker date="1553029223000" expanded="true" signature="2346:2557" ph="{...}" />
+                <marker date="1553029223000" expanded="true" signature="2395:2543" ph="{...}" />
+                <marker date="1553029223000" expanded="true" signature="2579:3471" ph="/* client = new DocumentClient(new Uri(EndpointUrl), PrimaryKey); ... */" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/QueryTest/appsettings.json">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
     </leaf>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/QueryTest/Startup.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/QueryTest/Program.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -44,36 +76,24 @@
     <option name="width" value="1439" />
     <option name="height" value="1453" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="SolutionExplorer" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
       <pane id="AssemblyExplorer" />
-      <pane id="FileSystemExplorer" />
       <pane id="SolutionExplorer">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="QueryTest" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-            <path>
-              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="QueryTest" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="QueryTest" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
         <option name="show-all-files" value="false" />
       </pane>
+      <pane id="FileSystemExplorer" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
     <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../SplunkTagManager" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
@@ -114,11 +134,14 @@
       <option name="presentableId" value="Default" />
       <updated>1552948184309</updated>
       <workItem from="1552948185478" duration="1961000" />
+      <workItem from="1552952876724" duration="116000" />
+      <workItem from="1553026281745" duration="561000" />
+      <workItem from="1553028388764" duration="1439000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1961000" />
+    <option name="totallyTimeSpent" value="4077000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -131,40 +154,41 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1439" height="1453" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info id="Image Layers" />
-      <window_info id="Capture Tool" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24982105" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26055834" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="NuGet" weight="0.3299045" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Unit Tests" />
-      <window_info anchor="bottom" id="REST Client" />
-      <window_info anchor="bottom" id="Terminal" weight="0.3299045" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Build" weight="0.3299045" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3299045" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3299045" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Errors In Solution" />
-      <window_info anchor="right" id="Database" />
+      <window_info active="true" anchor="bottom" id="NuGet" order="7" visible="true" weight="0.3299045" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Database Changes" order="10" />
+      <window_info anchor="bottom" id="Unit Tests" order="11" />
+      <window_info anchor="bottom" id="REST Client" order="12" />
+      <window_info anchor="bottom" id="Terminal" order="13" weight="0.3299045" />
+      <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" />
+      <window_info anchor="bottom" id="Build" order="15" weight="0.3299045" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Errors In Solution" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -177,20 +201,47 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/QueryTest/Program.cs">
+    <entry file="file://$PROJECT_DIR$/QueryTest/Startup.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="20" column="8" lean-forward="true" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
+        <state relative-caret-position="60">
+          <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
           <folding>
-            <marker date="1552952355000" expanded="true" signature="6:405" ph="..." />
-            <marker date="1552952355000" expanded="true" signature="426:1847" ph="{...}" />
-            <marker date="1552952355000" expanded="true" signature="519:795" ph="{...}" />
-            <marker date="1552952355000" expanded="true" signature="825:1845" ph="{...}" />
-            <marker date="1552952355000" expanded="true" signature="878:1674" ph="{...}" />
-            <marker date="1552952355000" expanded="true" signature="1528:1634" ph="{...}" />
+            <marker date="1552948186000" expanded="false" signature="6:402" ph="..." />
+            <marker date="1552948186000" expanded="true" signature="423:1520" ph="{...}" />
+            <marker date="1552948186000" expanded="true" signature="450:1518" ph="{...}" />
+            <marker date="1552948186000" expanded="true" signature="509:572" ph="{...}" />
+            <marker date="1552948186000" expanded="true" signature="795:904" ph="{...}" />
+            <marker date="1552948186000" expanded="true" signature="1092:1512" ph="{...}" />
+            <marker date="1552948186000" expanded="true" signature="1139:1216" ph="{...}" />
+            <marker date="1552948186000" expanded="true" signature="1233:1436" ph="{...}" />
           </folding>
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/QueryTest/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+          <folding>
+            <marker date="1553029223000" expanded="true" signature="6:231" ph="..." />
+            <marker date="1553029223000" expanded="true" signature="289:383" ph="{...}" />
+            <marker date="1553029223000" expanded="true" signature="318:339" ph="{...}" />
+            <marker date="1553029223000" expanded="true" signature="414:2576" ph="{...}" />
+            <marker date="1553029223000" expanded="true" signature="450:2574" ph="{...}" />
+            <marker date="1553029223000" expanded="true" signature="502:633" ph="{...}" />
+            <marker date="1553029223000" expanded="true" signature="528:623" ph="{...}" />
+            <marker date="1553029223000" expanded="true" signature="672:1902" ph="{...}" />
+            <marker date="1553029223000" expanded="true" signature="1943:2567" ph="{...}" />
+            <marker date="1553029223000" expanded="true" signature="2076:2298" ph="{...}" />
+            <marker date="1553029223000" expanded="true" signature="2346:2557" ph="{...}" />
+            <marker date="1553029223000" expanded="true" signature="2395:2543" ph="{...}" />
+            <marker date="1553029223000" expanded="true" signature="2579:3471" ph="/* client = new DocumentClient(new Uri(EndpointUrl), PrimaryKey); ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/QueryTest/appsettings.json">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>

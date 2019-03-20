@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="31eb3a19-7e0b-4973-a54a-d718131c58d6" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/SplunkTagManager/appsettings.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/SplunkTagManager/dotnet/Models/Tag.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SplunkTagManager/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SplunkTagManager/dotnet/LookupService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SplunkTagManager/dotnet/Indices/IndicesController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SplunkTagManager/dotnet/Indices/GetIndexResponse.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SplunkTagManager/dotnet/Indices/CreateIndexRequest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SplunkTagManager/dotnet/Indices/EditIndexRequest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SplunkTagManager/dotnet/Indices/UpsertIndexRequest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SplunkTagManager/dotnet/Models/Index.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SplunkTagManager/dotnet/CosmonautConfiguration.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SplunkTagManager/Startup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SplunkTagManager/dotnet/Models/Location.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/SplunkTagManager/Models/SplunkIndex.cs" />
+        <option value="$PROJECT_DIR$/SplunkTagManager/Program.cs" />
+        <option value="$PROJECT_DIR$/SplunkTagManager/Startup.cs" />
+        <option value="$PROJECT_DIR$/SplunkTagManager/dotnet/Models/SplunkIndex.cs" />
+        <option value="$PROJECT_DIR$/SplunkTagManager/dotnet/Models/Location.cs" />
+        <option value="$PROJECT_DIR$/SplunkTagManager/dotnet/Models/Tag.cs" />
+        <option value="$PROJECT_DIR$/SplunkTagManager/dotnet/CosmonautConfiguration.cs" />
+        <option value="$PROJECT_DIR$/SplunkTagManager/dotnet/LookupService.cs" />
+        <option value="$PROJECT_DIR$/SplunkTagManager/dotnet/Indices/GetIndexResponse.cs" />
+        <option value="$PROJECT_DIR$/SplunkTagManager/dotnet/Models/Index.cs" />
+        <option value="$PROJECT_DIR$/SplunkTagManager/dotnet/Indices/CreateIndexRequest.cs" />
+        <option value="$PROJECT_DIR$/SplunkTagManager/dotnet/Indices/EditIndexRequest.cs" />
+        <option value="$PROJECT_DIR$/SplunkTagManager/dotnet/Indices/UpsertIndexRequest.cs" />
+        <option value="$PROJECT_DIR$/SplunkTagManager/dotnet/Indices/IndicesController.cs" />
+        <option value="$PROJECT_DIR$/SplunkTagManager/appsettings.json" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="22" />
+    <option name="width" value="1439" />
+    <option name="height" value="1453" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AssemblyExplorer" />
+      <pane id="FileSystemExplorer" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="SplunkTagManager" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="SplunkTagManager" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="SplunkTagManager" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-all-files" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/ww_splunk_tag_manager" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="SplunkTagManager" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
+      <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/SplunkTagManager/SplunkTagManager.csproj" />
+      <option name="LAUNCH_PROFILE_TFM" value=".NETCoreApp,Version=v2.2" />
+      <option name="LAUNCH_PROFILE_NAME" value="SplunkTagManager" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="31eb3a19-7e0b-4973-a54a-d718131c58d6" name="Default Changelist" comment="" />
+      <created>1552938796048</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1552938796048</updated>
+      <workItem from="1552938797313" duration="1963000" />
+      <workItem from="1553026854159" duration="10848000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="12811000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="22" width="1439" height="1453" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25340015" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" visible="true" weight="0.3299045" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Database Changes" order="10" />
+      <window_info anchor="bottom" id="Unit Tests" order="11" />
+      <window_info anchor="bottom" id="REST Client" order="12" />
+      <window_info anchor="bottom" id="Terminal" order="13" />
+      <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Errors In Solution" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/SplunkTagManager/dotnet/LookupService.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="35" column="86" selection-start-line="35" selection-start-column="86" selection-end-line="35" selection-end-column="86" />
+          <folding>
+            <marker date="1553032763000" expanded="true" signature="6:220" ph="..." />
+            <marker date="1553032763000" expanded="true" signature="248:1128" ph="{...}" />
+            <marker date="1553032763000" expanded="true" signature="281:1126" ph="{...}" />
+            <marker date="1553032763000" expanded="true" signature="385:427" ph="{...}" />
+            <marker date="1553032763000" expanded="true" signature="479:627" ph="{...}" />
+            <marker date="1553032763000" expanded="true" signature="699:887" ph="{...}" />
+            <marker date="1553032763000" expanded="true" signature="950:1120" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SplunkTagManager/dotnet/Models/Index.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+          <folding>
+            <marker date="1553037730000" expanded="false" signature="6:160" ph="..." />
+            <marker date="1553037730000" expanded="true" signature="195:881" ph="{...}" />
+            <marker date="1553037730000" expanded="true" signature="287:879" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SplunkTagManager/dotnet/Indices/CreateIndexRequest.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="35" lean-forward="true" selection-start-line="2" selection-start-column="35" selection-end-line="2" selection-end-column="35" />
+          <folding>
+            <marker date="1553038155000" expanded="true" signature="34:241" ph="{...}" />
+            <marker date="1553038155000" expanded="true" signature="72:239" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SplunkTagManager/dotnet/Indices/IndicesController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2071">
+          <caret line="146" column="29" selection-start-line="146" selection-start-column="21" selection-end-line="146" selection-end-column="29" />
+          <folding>
+            <marker date="1553040345000" expanded="true" signature="6:234" ph="..." />
+            <marker date="1553040345000" expanded="true" signature="271:4860" ph="{...}" />
+            <marker date="1553040345000" expanded="true" signature="353:4858" ph="{...}" />
+            <marker date="1553040345000" expanded="true" signature="495:565" ph="{...}" />
+            <marker date="1553040345000" expanded="true" signature="755:1358" ph="{...}" />
+            <marker date="1553040345000" expanded="true" signature="813:924" ph="{...}" />
+            <marker date="1553040345000" expanded="true" signature="1048:1188" ph="{...}" />
+            <marker date="1553040345000" expanded="true" signature="1485:2060" ph="{...}" />
+            <marker date="1553040345000" expanded="true" signature="1529:1612" ph="{...}" />
+            <marker date="1553040345000" expanded="true" signature="1718:1781" ph="{...}" />
+            <marker date="1553040345000" expanded="true" signature="1843:2015" ph="{...}" />
+            <marker date="1553040345000" expanded="true" signature="2221:2648" ph="{...}" />
+            <marker date="1553040345000" expanded="true" signature="2286:2382" ph="{...}" />
+            <marker date="1553040345000" expanded="true" signature="2540:2605" ph="{...}" />
+            <marker date="1553040345000" expanded="true" signature="2870:3820" ph="{...}" />
+            <marker date="1553040345000" expanded="true" signature="2914:2997" ph="{...}" />
+            <marker date="1553040345000" expanded="true" signature="3047:3141" ph="{...}" />
+            <marker date="1553040345000" expanded="true" signature="3264:3327" ph="{...}" />
+            <marker date="1553040345000" expanded="true" signature="3381:3556" ph="{...}" />
+            <marker date="1553040345000" expanded="true" signature="3712:3777" ph="{...}" />
+            <marker date="1553040345000" expanded="true" signature="3957:4171" ph="{...}" />
+            <marker date="1553040345000" expanded="true" signature="4001:4066" ph="{...}" />
+            <marker date="1553040345000" expanded="true" signature="4340:4843" ph="{...}" />
+            <marker date="1553040345000" expanded="true" signature="4405:4577" ph="{...}" />
+            <marker date="1553040345000" expanded="true" signature="4735:4800" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SplunkTagManager/dotnet/CosmonautConfiguration.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="571">
+          <caret line="48" column="16" lean-forward="true" selection-start-line="48" selection-start-column="16" selection-end-line="48" selection-end-column="35" />
+          <folding>
+            <marker date="1553030900000" expanded="false" signature="6:235" ph="..." />
+            <marker date="1553030900000" expanded="true" signature="262:2086" ph="{...}" />
+            <marker date="1553030900000" expanded="true" signature="304:2084" ph="{...}" />
+            <marker date="1553030900000" expanded="true" signature="406:1222" ph="{...}" />
+            <marker date="1553030900000" expanded="true" signature="626:747" ph="{...}" />
+            <marker date="1553030900000" expanded="true" signature="1332:1533" ph="{...}" />
+            <marker date="1553030900000" expanded="true" signature="1575:2078" ph="{...}" />
+            <marker date="1553030900000" expanded="true" signature="1625:1755" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SplunkTagManager/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="13" column="23" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
+          <folding>
+            <marker date="1553026939000" expanded="false" signature="6:63" ph="..." />
+            <marker date="1553026939000" expanded="true" signature="92:335" ph="{...}" />
+            <marker date="1553026939000" expanded="true" signature="119:333" ph="{...}" />
+            <marker date="1553026939000" expanded="true" signature="172:327" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SplunkTagManager/Startup.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="46" column="1" selection-start-line="46" selection-start-column="1" selection-end-line="46" selection-end-column="1" />
+          <folding>
+            <marker date="1553027031000" expanded="false" signature="6:332" ph="..." />
+            <marker date="1553027031000" expanded="true" signature="360:1451" ph="{...}" />
+            <marker date="1553027031000" expanded="true" signature="387:1449" ph="{...}" />
+            <marker date="1553027031000" expanded="true" signature="446:509" ph="{...}" />
+            <marker date="1553027031000" expanded="true" signature="732:835" ph="{...}" />
+            <marker date="1553027031000" expanded="true" signature="1023:1443" ph="{...}" />
+            <marker date="1553027031000" expanded="true" signature="1070:1147" ph="{...}" />
+            <marker date="1553027031000" expanded="true" signature="1164:1367" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SplunkTagManager/dotnet/Indices/UpsertIndexRequest.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+          <folding>
+            <marker date="1553039507000" expanded="true" signature="34:256" ph="{...}" />
+            <marker date="1553039507000" expanded="true" signature="72:254" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SplunkTagManager/dotnet/Indices/EditIndexRequest.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+          <folding>
+            <marker date="1553038864000" expanded="true" signature="34:212" ph="{...}" />
+            <marker date="1553038864000" expanded="true" signature="70:210" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SplunkTagManager/dotnet/Indices/GetIndexResponse.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="41" selection-start-line="10" selection-start-column="41" selection-end-line="10" selection-end-column="41" />
+          <folding>
+            <marker date="1553037615000" expanded="true" signature="34:286" ph="{...}" />
+            <marker date="1553037615000" expanded="true" signature="70:284" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SplunkTagManager/dotnet/Models/Location.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+          <folding>
+            <marker date="1553030815000" expanded="true" signature="6:44" ph="..." />
+            <marker date="1553030815000" expanded="true" signature="79:370" ph="{...}" />
+            <marker date="1553030815000" expanded="true" signature="175:368" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SplunkTagManager/dotnet/Models/Tag.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+          <folding>
+            <marker date="1553030856000" expanded="true" signature="6:81" ph="..." />
+            <marker date="1553030856000" expanded="true" signature="116:673" ph="{...}" />
+            <marker date="1553030856000" expanded="true" signature="207:671" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SplunkTagManager/appsettings.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

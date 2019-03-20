@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "/Users/42robotics/RiderProjects/CosmosDB_Practice/QueryTest/QueryTest/QueryTest.csproj",
-    "projectName": "QueryTest",
-    "projectPath": "/Users/42robotics/RiderProjects/CosmosDB_Practice/QueryTest/QueryTest/QueryTest.csproj",
-    "outputPath": "/Users/42robotics/RiderProjects/CosmosDB_Practice/QueryTest/QueryTest/obj/",
+    "projectUniqueName": "/Users/42robotics/RiderProjects/SplunkTagManager/SplunkTagManager/SplunkTagManager.csproj",
+    "projectName": "SplunkTagManager",
+    "projectPath": "/Users/42robotics/RiderProjects/SplunkTagManager/SplunkTagManager/SplunkTagManager.csproj",
+    "outputPath": "/Users/42robotics/RiderProjects/SplunkTagManager/SplunkTagManager/obj/",
     "projectStyle": "PackageReference",
     "fallbackFolders": [
       "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
@@ -26,9 +26,9 @@
   "frameworks": {
     "netcoreapp2.2": {
       "dependencies": {
-        "Cosmonaut": {
+        "Cosmonaut.Extensions.Microsoft.DependencyInjection": {
           "target": "Package",
-          "version": "[2.9.0, )"
+          "version": "[2.3.0, )"
         },
         "Microsoft.AspNetCore.App": {
           "suppressParent": "All",
@@ -40,10 +40,6 @@
           "suppressParent": "All",
           "target": "Package",
           "version": "[2.2.0, )"
-        },
-        "Microsoft.Azure.DocumentDB.Core": {
-          "target": "Package",
-          "version": "[2.2.3, )"
         },
         "Microsoft.NETCore.App": {
           "suppressParent": "All",

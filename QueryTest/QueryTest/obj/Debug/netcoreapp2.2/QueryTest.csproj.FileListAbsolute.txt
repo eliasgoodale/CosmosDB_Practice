@@ -12,3 +12,17 @@
 /Users/42robotics/RiderProjects/QueryTest/QueryTest/obj/Debug/netcoreapp2.2/QueryTest.RazorTargetAssemblyInfo.cache
 /Users/42robotics/RiderProjects/QueryTest/QueryTest/obj/Debug/netcoreapp2.2/QueryTest.dll
 /Users/42robotics/RiderProjects/QueryTest/QueryTest/obj/Debug/netcoreapp2.2/QueryTest.pdb
+/Users/42robotics/RiderProjects/CosmosDB_Practice/QueryTest/QueryTest/bin/Debug/netcoreapp2.2/QueryTest.deps.json
+/Users/42robotics/RiderProjects/CosmosDB_Practice/QueryTest/QueryTest/bin/Debug/netcoreapp2.2/QueryTest.runtimeconfig.json
+/Users/42robotics/RiderProjects/CosmosDB_Practice/QueryTest/QueryTest/bin/Debug/netcoreapp2.2/QueryTest.runtimeconfig.dev.json
+/Users/42robotics/RiderProjects/CosmosDB_Practice/QueryTest/QueryTest/bin/Debug/netcoreapp2.2/QueryTest.dll
+/Users/42robotics/RiderProjects/CosmosDB_Practice/QueryTest/QueryTest/bin/Debug/netcoreapp2.2/QueryTest.pdb
+/Users/42robotics/RiderProjects/CosmosDB_Practice/QueryTest/QueryTest/obj/Debug/netcoreapp2.2/QueryTest.csprojAssemblyReference.cache
+/Users/42robotics/RiderProjects/CosmosDB_Practice/QueryTest/QueryTest/obj/Debug/netcoreapp2.2/QueryTest.csproj.CoreCompileInputs.cache
+/Users/42robotics/RiderProjects/CosmosDB_Practice/QueryTest/QueryTest/obj/Debug/netcoreapp2.2/QueryTest.RazorAssemblyInfo.cache
+/Users/42robotics/RiderProjects/CosmosDB_Practice/QueryTest/QueryTest/obj/Debug/netcoreapp2.2/QueryTest.RazorAssemblyInfo.cs
+/Users/42robotics/RiderProjects/CosmosDB_Practice/QueryTest/QueryTest/obj/Debug/netcoreapp2.2/QueryTest.AssemblyInfoInputs.cache
+/Users/42robotics/RiderProjects/CosmosDB_Practice/QueryTest/QueryTest/obj/Debug/netcoreapp2.2/QueryTest.AssemblyInfo.cs
+/Users/42robotics/RiderProjects/CosmosDB_Practice/QueryTest/QueryTest/obj/Debug/netcoreapp2.2/QueryTest.RazorTargetAssemblyInfo.cache
+/Users/42robotics/RiderProjects/CosmosDB_Practice/QueryTest/QueryTest/obj/Debug/netcoreapp2.2/QueryTest.dll
+/Users/42robotics/RiderProjects/CosmosDB_Practice/QueryTest/QueryTest/obj/Debug/netcoreapp2.2/QueryTest.pdb
